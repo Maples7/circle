@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/circle",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "QWslv6+c+y20kzd+rQDgWX3xi8XzenkbFHwQGnvuQ35EPt2Vc9kDc4kADH5BMM+qqi1n1YQd9y7XfXFeXWSXDA=="
+    },
+    "local": {}
+  },
+  "corsWhitelist": []
+}
