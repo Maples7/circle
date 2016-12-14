@@ -1,15 +1,15 @@
 {
   "name": "circle",
-  "description": "API Server for Circle based on FeathersJS",
+  "description": "An API Server for Circle based on FeatherJS",
   "version": "0.0.0",
   "homepage": "",
   "main": "src/",
   "keywords": [
     "feathers"
   ],
-  "license": "MIT",
+  "license": "GPLv3",
   "repository": {},
-  "author": {},
+  "author": "Maples7 <maplesseven@gmail.com>",
   "contributors": [],
   "bugs": {},
   "engines": {
@@ -30,10 +30,10 @@
     "feathers-configuration": "^0.3.3",
     "feathers-errors": "^2.5.0",
     "feathers-hooks": "^1.7.0",
-    "feathers-mongoose": "^3.6.1",
+    "feathers-nedb": "^2.6.0",
     "feathers-rest": "^1.5.2",
     "feathers-socketio": "^1.4.2",
-    "mongoose": "^4.7.2",
+    "nedb": "^1.8.0",
     "passport": "^0.3.2",
     "serve-favicon": "^2.3.2",
     "winston": "^2.3.0"
